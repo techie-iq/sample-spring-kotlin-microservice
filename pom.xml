@@ -8,7 +8,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.3</version>
 	</parent>
-	<groupId>pl.piomin.services</groupId>
+	<groupId>com.techieiq.services</groupId>
 	<artifactId>sample-spring-kotlin-microservice</artifactId>
 	<version>1.4.0</version>
 
